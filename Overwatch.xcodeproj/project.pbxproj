@@ -21,6 +21,7 @@
 		B58291DF1DBA5EBD0017FF58 /* OverwatchHero.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58291DE1DBA5EBD0017FF58 /* OverwatchHero.swift */; };
 		B58291E11DBA65300017FF58 /* Hero.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58291E01DBA65300017FF58 /* Hero.swift */; };
 		B58291E31DBA68190017FF58 /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58291E21DBA68190017FF58 /* Game.swift */; };
+		B58291E91DBA92760017FF58 /* SelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58291E81DBA92760017FF58 /* SelectionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		B58291DE1DBA5EBD0017FF58 /* OverwatchHero.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OverwatchHero.swift; sourceTree = "<group>"; };
 		B58291E01DBA65300017FF58 /* Hero.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Hero.swift; sourceTree = "<group>"; };
 		B58291E21DBA68190017FF58 /* Game.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
+		B58291E81DBA92760017FF58 /* SelectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SelectionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				7D69AE6C1DAAF58B006B180A /* ViewController.swift */,
 				B58291DE1DBA5EBD0017FF58 /* OverwatchHero.swift */,
 				B58291E21DBA68190017FF58 /* Game.swift */,
+				B58291E81DBA92760017FF58 /* SelectionViewController.swift */,
 				B58291E01DBA65300017FF58 /* Hero.swift */,
 				7D69AE6E1DAAF58B006B180A /* Main.storyboard */,
 				7D69AE711DAAF58B006B180A /* Assets.xcassets */,
@@ -239,6 +242,7 @@
 				7D69AE6D1DAAF58B006B180A /* ViewController.swift in Sources */,
 				7D69AE6B1DAAF58B006B180A /* AppDelegate.swift in Sources */,
 				B58291DF1DBA5EBD0017FF58 /* OverwatchHero.swift in Sources */,
+				B58291E91DBA92760017FF58 /* SelectionViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

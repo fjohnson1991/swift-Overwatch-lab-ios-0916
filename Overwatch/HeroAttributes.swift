@@ -16,7 +16,7 @@ enum HeroName: CustomStringConvertible {
             case .genji:
                 return "Genji"
             case .mcCree:
-                return "McGree"
+                return "McCree"
             case .pharah:
                 return "Pharah"
             case .reaper:
@@ -38,7 +38,7 @@ enum HeroName: CustomStringConvertible {
             case .widowmaker:
                 return "Widowmaker"
             case .dva:
-                return "Dva"
+                return "DVA"
             case .reinhardt:
                 return "Reinhardt"
             case .roadhog:
@@ -50,7 +50,7 @@ enum HeroName: CustomStringConvertible {
             case .ana:
                 return "Ana"
             case .lúcio:
-                return "Lucio"
+                return "Lúcio"
             case .mercy:
                 return "Mercy"
             case .symmetra:

@@ -29,7 +29,7 @@ extension Game {
             let heroList = HeroName.hereos(with: type)
             for hero in heroList {
                 let newHero = Hero(name: hero)
-                switch heroType {
+                switch newHero.heroType {
                 case .offense:
                     offenseCharacters.append(newHero)
                 case .defense:
@@ -53,7 +53,6 @@ extension Game {
             return tankCharacters
         case .support:
             return supportCharacters
-            
         }
     }
 }
